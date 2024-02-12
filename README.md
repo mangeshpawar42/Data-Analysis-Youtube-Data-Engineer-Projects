@@ -1,4 +1,4 @@
-# Data Engineering YouTube Analysis Project by Darshil Parmar
+# YouTube Analysis Project
 
 ## Overview
 
